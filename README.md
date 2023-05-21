@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateekmaru&label=Profile%20views&color=0e75b6&style=flat" alt="prateekmaru" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://prateekspace.pages.dev/](https://prateekspace.pages.dev/)
+- 👨‍💻 All of my projects are available at [https://prateekspace.eu.org/](https://prateekspace.eu.org/)
 
-- 📫 How to reach me **PrateekMaru@protonmail.com**
+- 📫 How to reach me **prateek@prateekspace.eu.org**
 
 - ⚡ Fun fact **Physics! I dont like this subject**
 
